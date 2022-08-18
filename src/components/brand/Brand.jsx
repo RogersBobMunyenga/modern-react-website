@@ -1,10 +1,10 @@
-import "./article.css";
+import "./brand.css";
 
 
-const Article = () => {
+const Brand = () => {
   return (
-    <div>Article</div>
+    <div>Brand</div>
   )
 }
 
-export default Article
+export default Brand
